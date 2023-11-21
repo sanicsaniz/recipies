@@ -1,10 +1,15 @@
+li{
+    font-size: 2vw;
+}
+
+
 #ceviche{
-    font-size: larger;
+    
     color: #0f0;
 }
 #pizza{
     color:blueviolet;
-    font-size: large;
+    
 }
 #roastbeef{
     color:purple;
