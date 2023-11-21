@@ -1,0 +1,20 @@
+#ceviche{
+    font-size: larger;
+    color: #0f0;
+}
+#pizza{
+    color:blueviolet;
+    font-size: large;
+}
+#roastbeef{
+    color:purple;
+}
+.title1{
+    text-align: center;
+    transition-duration: 1s;
+}
+
+h1:hover{
+    font-size: 10vh;
+    color:red;
+}
